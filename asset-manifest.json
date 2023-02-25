@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Markdown_Previewer/static/css/main.4fb8a93e.css",
+    "main.js": "/Markdown_Previewer/static/js/main.fbac5a4b.js",
+    "static/media/quicksand-all-400-normal.woff": "/Markdown_Previewer/static/media/quicksand-all-400-normal.3991594f0487f37c86d5.woff",
+    "static/media/satisfy-all-400-normal.woff": "/Markdown_Previewer/static/media/satisfy-all-400-normal.bba2d51ae8435585da1f.woff",
+    "static/media/satisfy-latin-400-normal.woff2": "/Markdown_Previewer/static/media/satisfy-latin-400-normal.084d93d7a97ca1771a45.woff2",
+    "static/media/quicksand-latin-400-normal.woff2": "/Markdown_Previewer/static/media/quicksand-latin-400-normal.cef2e5802d843cf31dba.woff2",
+    "static/media/quicksand-latin-ext-400-normal.woff2": "/Markdown_Previewer/static/media/quicksand-latin-ext-400-normal.22fcff85fddc4c8cf3ff.woff2",
+    "static/media/quicksand-vietnamese-400-normal.woff2": "/Markdown_Previewer/static/media/quicksand-vietnamese-400-normal.001708e70ef991eec89b.woff2",
+    "index.html": "/Markdown_Previewer/index.html",
+    "main.4fb8a93e.css.map": "/Markdown_Previewer/static/css/main.4fb8a93e.css.map",
+    "main.fbac5a4b.js.map": "/Markdown_Previewer/static/js/main.fbac5a4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fb8a93e.css",
+    "static/js/main.fbac5a4b.js"
+  ]
+}
