@@ -45,8 +45,6 @@ const sample_text = `# Howdy
 
 [GitHub Repo containing this project](https://github.com/RithikRaj64/Markdown-Previewer)
 
-[Project has been deployed in this link](https://rithikraj64.github.io/Markdown-Previewer)
-
 \`You can insert an Inline Code\`
 
     Or you can go crazy and have a whole Code Block
